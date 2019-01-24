@@ -1,0 +1,5 @@
+ul {
+    overflow-y: scroll;
+    height: 90%;
+    list-style-type: none;
+}
